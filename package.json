@@ -2,5 +2,9 @@
   "name": "faqs",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": {
+    "name": "Rodrigo Albino Hammes",
+    "email": "rodrigo.hammes7@gmail.com",
+  }
 }
